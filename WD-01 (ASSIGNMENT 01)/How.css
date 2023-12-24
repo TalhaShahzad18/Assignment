@@ -1,0 +1,41 @@
+.main {
+    height: 260px;
+    width: 950px;
+    background-color: Black; 
+    border: 5px solid Green; 
+    text-align: Left;
+    color: white;
+    margin-left: 10px ;
+    padding-left: 50px;
+    border-radius: 30px;
+    /* display: inline; */
+    }
+
+.Second {
+    width: 950px;
+    height: 260px;
+    background-color: Black; 
+    border: 5px solid Green; 
+    text-align: Left;
+    color: white;
+    margin-left: 10px ;
+    padding-left: 50px;
+    border-radius: 30px;
+    /* display: inline; */
+    }
+
+.Third{
+    width: 950px;
+    height: 200px;
+    background-color: Black; 
+    border: 5px solid Green; 
+    text-align: Left;
+    color: white;
+    margin-left: 10px ;
+    padding-left: 50px;
+    border-radius: 30px;
+    /* display: inline; */
+    }    
+    #body {
+        background-color: silver;
+    }
