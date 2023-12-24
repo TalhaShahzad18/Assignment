@@ -1,0 +1,40 @@
+.headers {
+    height: 20px;
+    width: 1100px;
+    background-color: Black; 
+    border: 5px solid black; 
+    text-align: Left;
+    color: white;
+    margin-left: 50px ;
+    padding-left: 50px;
+    border-radius: 30px;
+    /* display: inline; */
+    }
+    
+#Links{
+    padding: 50px;
+    color: white;
+}
+#how {
+text-align: center;
+color: white;
+}
+.HOW{
+    height: 20px;
+    width: 180px;
+    background-color: Black; 
+    border: 5px solid black; 
+    text-align: center;
+    color: white;
+    margin-left:10px ;
+    padding-left: 5px;
+    border-radius: 30px;
+    /* display: inline; */
+   
+}
+
+#POST {
+    color: black;
+    padding: 30px;
+    
+}
